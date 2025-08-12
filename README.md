@@ -80,7 +80,7 @@ This project requires the following dependencies:
 
 Run the project with:
    ```bash
-   git clone https://github.com/sakshidosad/Project-CRM-FE
+   npm run dev
    ```
 
 ---
@@ -89,7 +89,7 @@ Run the project with:
 
 Project-CRM-FE uses the {test_framework} test framework. Run the test suite with:
    ```bash
-   git clone https://github.com/sakshidosad/Project-CRM-FE
+   npm test
    ```
 
 [Return to Top](#project-crm-fe)
